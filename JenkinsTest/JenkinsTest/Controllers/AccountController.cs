@@ -18,6 +18,7 @@ namespace JenkinsTest.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
+        // Account controller
         public AccountController()
         {
         }
